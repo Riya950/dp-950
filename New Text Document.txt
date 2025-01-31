@@ -1,5 +1,2 @@
 This is from windows
->>>>>> feature1
-creating new branches
-this is feture1
-<<<<<< main
+this is from feature1
